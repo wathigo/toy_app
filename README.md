@@ -1,24 +1,14 @@
-# README
+# A simple toy app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple rails application from [Chapter 2 of The Rails Tutorial ](https://www.railstutorial.org/book/toy_app) by Michael Hartl.
 
-Things you may want to cover:
+## Skills Obtained
+1. Routing
+2. Creating database models.
+3. MVC concepts.
+4. App deployement on Heroku cloud server.
+5. Resftful concept.
+6. Http requests.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Contributer
+1. [Simon Wathigo](https://github.com/wathigo)
