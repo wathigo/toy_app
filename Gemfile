@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'rails',        '5.1.6'
+gem 'rails',        '7.0.4.1'
 gem 'puma',         '3.12.4'
-gem 'sass-rails',   '5.0.6'
+gem 'sass-rails',   '6.0.0'
 gem 'uglifier',     '3.2.0'
 gem 'coffee-rails', '4.2.2'
 gem 'jquery-rails', '4.3.1'
@@ -16,7 +16,7 @@ group :development, :test do
 end
 
 group :development do
-  gem 'web-console',           '3.5.1'
+  gem 'web-console',           '4.2.0'
   gem 'listen',                '3.1.5'
   gem 'spring',                '2.1.0'
   gem 'spring-watcher-listen', '2.0.1'
